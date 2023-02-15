@@ -3,7 +3,7 @@ I am transitioning from a natural science background, to a data science career. 
 
 - 🔭 I’m currently working on adding various projects to my repo and searching for a data science position.
 - 💬 Ask me about my [portfolio website](https://jodiambra.github.io/) or [resume](https://github.com/jodiambra/jodiambra.github.io/blob/main/files/jacques_diambraodi_ds_resume.pdf).
-- 📫 How to reach me: jodiambra@gmail.com
+- 📫 How to reach me: jodiambra@gmail.com , [LinkedIn](https://www.linkedin.com/in/jodiambra/)
 
 
 <!--
