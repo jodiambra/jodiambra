@@ -1,11 +1,17 @@
 ### Hi there 👋
+I am transitioning from a natural science background, to a data science career. Nevertheless, I bring my analytical thinking to any project I undertake. I enjoy working with machine learning models and creating interactive visualizations. 
+
+- 🔭 I’m currently working on adding various projects to my repo and searching for a data sceince position.
+- 💬 Ask me about my [portfolio website](https://jodiambra.github.io/) or [resume](https://github.com/jodiambra/jodiambra.github.io/blob/main/files/jacques_diambraodi_ds_resume.pdf).
+- 📫 How to reach me: jodiambra@gmail.com
+
 
 <!--
 **jodiambra/jodiambra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
