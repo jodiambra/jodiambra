@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **jodiambra@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/jodiambra/jodiambra.github.io/blob/main/files/jacques_diambraodi_ds_resume.pdf](https://github.com/jodiambra/jodiambra.github.io/blob/main/files/jacques_diambraodi_ds_resume.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/jodiambra/jodiambra.github.io/blob/main/files/jacques_diambraodi_ds_resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
