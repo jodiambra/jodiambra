@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on **adding various projects to my repo and searching for a data science position.**
 
-- 👨‍💻 All of my projects are available at [https://jodiambra.github.io/](https://jodiambra.github.io/)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/jodiambra?tab=repositories)
+
+- My portfolio website is available at [Porfolio](https://jodiambra-portfolio.vercel.app/)
 
 - 💬 Ask me about **Python, Data Science, Machine Learning, Crypto, Soccer and Jiujitsu**
 
