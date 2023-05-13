@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/jodiambra?tab=repositories)
 
-- My portfolio website is available at [Porfolio](https://jodiambra-portfolio.vercel.app/)
+- ⚡ My portfolio website is available at [Porfolio](https://jodiambra-portfolio.vercel.app/)
 
 - 💬 Ask me about **Python, Data Science, Machine Learning, Crypto, Soccer and Jiujitsu**
 
